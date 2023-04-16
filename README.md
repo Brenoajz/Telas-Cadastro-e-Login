@@ -1,4 +1,4 @@
-Projeto muito simploes para treinar. 
+Projeto muito simples para treinar. 
 
 Eu utilizei JavaScript para atualizar o conteúdo da página dinamicamente, em vez de criar várias páginas separadas para cada funcionalidade. Essa abordagem é comum na criação de aplicativos da web modernos, e foi muito eficaz para fornecer uma experiência do usuário mais suave e interativa.
 
